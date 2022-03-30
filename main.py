@@ -7,7 +7,7 @@ def Dec(num):
     return int(num, 2)
 
 
-def twosComplimentInBinary(x):  # positive binary no
+def twosComplimentInBinary(x):  # positive binary
     temp_arr = []
     for i in x:
         if i == "0":
